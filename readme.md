@@ -19,5 +19,5 @@ git init
 
 ## 🔍 Referências
 
-- DIO
+- DIO. 
 
